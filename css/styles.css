@@ -1,6 +1,10 @@
+.body {
+	font-family: 'Muli', sans-serif;
+}
+
 .header {
 	height: 620px;
-	background-image: url("../img/header-background.jpg");
+	background-image: url("../img/header-background-edited.jpg");
 	background-size: cover;
 	background-position: 50% 62%;
 }
@@ -15,5 +19,51 @@
 	float: left;
 	list-style-type: none;
 	margin-left: 26px;
+	text-shadow: 0px 0px 2px black;
+}
+
+.header-brand-wrapper {
+	margin-top: 50px;
+	float: left;
+}
+
+.header-brand {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 150%;
+	margin-top: -5%;
+	display: block;
+	text-shadow: 0px 0px 2px black;
+}
+
+.slogan {
+	color: white;
+	text-align: center;
+	padding-top: 110px;
+	text-shadow: 0px 0px 2px black;
+}
+
+.slogan-top {
+	font-size: 170%;
+	font-weight: lighter;
+}
+
+.slogan-bottom {
+	font-size: 250%;
+	font-weight: bold;
+}
+
+.slogan-button {
+	margin-top: 70px;
+	color: white;
+	font-color: white;
+	text-shadow: 0px 0px 2px black;
+}
+
+.slogan-button:hover {
+	color: white;
+	font-color: white;
+	text-shadow: 0px 0px 2px black;
 }
 
