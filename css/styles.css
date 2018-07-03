@@ -40,7 +40,7 @@
 .slogan {
 	color: white;
 	text-align: center;
-	padding-top: 110px;
+	padding-top: 87px;
 	text-shadow: 0px 0px 2px black;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .slogan-button {
-	margin-top: 70px;
+	margin-top: 93px;
 	color: white;
 	font-color: white;
 	text-shadow: 0px 0px 2px black;
@@ -82,4 +82,11 @@
 
 .service p {
 	color: rgb(117, 117, 117);
+}
+
+.service-icon {
+	color: rgb(224, 224, 224);
+	font-size: 1300%;
+	text-align: center;
+	margin-top: -45px;
 }
